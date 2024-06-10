@@ -25,11 +25,31 @@ header {
     box-shadow: 0 3px 3px white;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: "Zen dots";
     color: yellow;
-    text-decoration: underline;
-    text-decoration-color: black
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 3px;
+    color: yellow;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid yellow;
 }
 /* main content */
 main {
