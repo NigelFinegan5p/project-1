@@ -18,6 +18,11 @@ body {
 /* header */
 header {
     background-color: black;
+    padding: 0 2rem;
+    position: relative;
+    z-index: 98;
+    width: 100%;
+    box-shadow: 0 3px 3px white;
 }
 
 h1 {
