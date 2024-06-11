@@ -80,9 +80,15 @@ nav {
 }
 /* main content */
 main {
-    background-color: white;
     /* make main elemnt take up any surplus */
     flex: 1 0 auto;
+    margin-top: 47px;
+}
+/* SEO image */
+#seo-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/image1yellow.jpg") no-repeat center center/cover;
 }
 /* footer */
 #social-media {
