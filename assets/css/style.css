@@ -43,7 +43,7 @@ h1 {
 #menu {
     font-size: 100%;
     letter-spacing: 3px;
-    color: black;
+    color: #f2c40f;
     list-style-type: none;
 }
 
@@ -57,7 +57,7 @@ h1 {
 
 nav {
     position: absolute;
-    background-color: #f2c40f;
+    background-color: black;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -83,8 +83,46 @@ main {
     background-color: #f2c40f;
     /* make main elemnt take up any surplus */
     flex: 1 0 auto;
+    margin-top: auto;
 }
 /* footer */
 footer {
     background-color: black;
+}
+/* media query for brak points tables of 768px and larger ( note for HEADER )*/
+@media screen and (min-width: 768px) {
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        background-color: black;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 270%;
+        line-height: 60px;
+        margin: 0 0.5rem;
+    }
+
+}
+
+/* large devices of 992 and above */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #f2c40f;
+    }
 }
