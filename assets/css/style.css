@@ -17,7 +17,7 @@ body {
 }
 /* header */
 header {
-    background-color: black;
+    background-color: white;
     padding: 0 2rem;
     position: relative;
     z-index: 98;
@@ -51,7 +51,7 @@ h1 {
     margin-bottom: 1em;
 }
 
-.working {
+.active {
     border-bottom: 1px solid black;
 }
 
@@ -80,14 +80,24 @@ nav {
 }
 /* main content */
 main {
-    background-color: #f2c40f;
+    background-color: white;
     /* make main elemnt take up any surplus */
     flex: 1 0 auto;
-    margin-top: auto;
 }
 /* footer */
-footer {
-    background-color: black;
+#social-media {
+    text-align: center;   
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: white;
+}
+/* social media icons */
+#social-media i {
+    font-size: 200%;
+    padding: 2%;
+    color: black;
 }
 /* media query for brak points tables of 768px and larger ( note for HEADER )*/
 @media screen and (min-width: 768px) {
@@ -97,7 +107,7 @@ footer {
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
-        background-color: black;
+        background-color: white;  
     }
 
     #menu {
