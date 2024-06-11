@@ -24,7 +24,7 @@ header {
     width: 100%;
     box-shadow: 0 3px 3px white;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: baseline;
 }
 
@@ -63,6 +63,7 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2px #f2c40f;
     display: none;
+    top: 100%;
 }
 /* nav toggle NAV BAR DROPDOWN */
 #nav-toggle:checked~nav {
