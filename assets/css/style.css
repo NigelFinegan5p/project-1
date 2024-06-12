@@ -90,6 +90,31 @@ main {
     width: 100%;
     background: url("../images/image1yellow.jpg") no-repeat center center/cover;
 }
+/* style for services and packages in hte main element */
+#services {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#services h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#packages > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#packages p {
+    padding: 0 20px;
+}
+
+#packages hr {
+    border-top: 1px solid #f2c40f;
+    margin: 5px 0;
+}
 /* footer */
 #social-media {
     text-align: center;   
