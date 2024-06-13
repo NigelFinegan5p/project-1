@@ -117,6 +117,32 @@ main {
     margin: 5px 0;
 }
 
+/* style for SEO process and & 6 steps on SEO services page */
+#our-seo-process {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#our-seo-process {
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 100%;
+}
+
+#six-steps div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#six-steps p {
+    padding: 0 20px;
+}
+
+#six-steps hr {
+    border-top: 1px solid #f2c40f;
+    margin: 5px 0;
+}
+
 /* about us page style for map and contact us details */
 #map-wrapper {
     height: 300px;
