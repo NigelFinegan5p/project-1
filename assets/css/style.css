@@ -154,6 +154,18 @@ main {
     width: 100%;
     border: none;
 }
+/* about us page Contact details & address */
+#about-us {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#about-us {
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 80%;
+}
+
 
 
 /* bottom bannerbelow packages above footer */
@@ -222,6 +234,8 @@ main {
         text-align: left;
         align-self: flex-end;
     }
+
+
 
 
     
