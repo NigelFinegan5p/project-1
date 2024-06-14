@@ -83,6 +83,10 @@ main {
     /* make main elemnt take up any surplus */
     flex: 1 0 auto;
     margin-top: 47px;
+    background-image: url(../images/image4white.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 96%;
 }
 /* SEO image */
 #seo-image {
