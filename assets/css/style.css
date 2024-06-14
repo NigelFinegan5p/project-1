@@ -104,7 +104,7 @@ main {
 }
 
 #packages > div {
-    line-height: 20px;
+    line-height: 30px;
     margin-bottom: 20px;
 }
 
@@ -130,7 +130,7 @@ main {
 }
 
 #six-steps div {
-    line-height: 20px;
+    line-height: 30px;
     margin-bottom: 20px;
 }
 
@@ -151,19 +151,32 @@ main {
 
 #map {
     height: 100%;
-    width: 100%;
+    width: 50%;
     border: none;
 }
 /* about us page Contact details & address */
 #about-us {
     width: 90%;
     margin: 20px auto;
+    position: absolute;
 }
 
 #about-us {
     margin-bottom: 20px;
-    text-align: left;
+    text-align: right;
     font-size: 80%;
+}
+
+#mission-people {
+    width: 90%;
+    margin: 20px auto;
+    line-height: 30px;
+}
+
+#mission-people {
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 100%;
 }
 
 
