@@ -1,8 +1,7 @@
-**
+# Yellow SEO
 
-## Yellow SEO Mobile First Marketing Services for Search Engine Page Results
+## Mobile First Marketing Services for Search Engine Page Results
 
-**
 ![YellowSEO-main-image](https://smithhousedesign.com/wp-content/uploads/2017/03/smithHOUSE-design-SEO-phoenix-digital-marketing-golden.jpg)
 (Developer: Nigel Finegan)
 [Live Website](https://nigelfinegan5p.github.io/project-1/index.html)
@@ -18,13 +17,13 @@ At Yellow SEO, we highlight our clients' websites, leading to concrete increases
 
 We are a growing SEO agency built on a vision, and that is providing a real options for safe, natural, and sure-fire growth through Search Engine Optimization in an increasingly mobile first world.
 
-We are SEO experts and account managers based out of the mill Enterprise Hub, Drogheda who you will get to know as business partners as primary focus is the long term sustainability of the SME sector in E-Commerce.
+We are SEO experts and account managers based out of the mill Enterprise Hub, Drogheda, who you will get to know as business partners as our primary focus is the long term sustainability of the SME sector in E-Commerce.
 ## Project Goals
 
 ### User Goals
--   Finding a Digital SEO agency focused on the SME sector and the nuances within, industry, sector and markets.
--   See service and package offer with clear structure & pricing.
--   Find information about the agency and the their location.
+-   Finding a Digital SEO agency focused on the SME sector and the nuances within each industry, sector and market.
+-   See our service and package offers with clear structure & pricing.
+-   Find information about the agency and their location.
 -   Find the location and contact details of the agency.
 
 ### Site Owner Goals
@@ -32,7 +31,7 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 -   Increase in the number of site views, click-thru rates and highlighting the Yellow SEO agency brand.
 -   Promote the brand and the business capabilities.
 -   Provide multiple ways for new and existing customers to contact the business and increase leads.
--   Provide essential information about the business to customers allowing for more touch points.
+-   Provide essential information about the business packages to customers allowing for more touch points.
 - Maximising the customer funnel driving awareness and discovery with a fully optimised mobile website. 
 
 Source [(Digital Marketing Institute)](https://digitalmarketinginstitute.com/blog/how-to-nurture-leads-at-each-stage-of-the-sales-funnel)
