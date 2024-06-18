@@ -1,10 +1,14 @@
-Yellow SEO
-Mobile First Marketing Services for Search Engine Page Results
+**
+
+## Yellow SEO Mobile First Marketing Services for Search Engine Page Results
+
+**
 ![YellowSEO-main-image](https://smithhousedesign.com/wp-content/uploads/2017/03/smithHOUSE-design-SEO-phoenix-digital-marketing-golden.jpg)
 (Developer: Nigel Finegan)
 [Live Website](https://nigelfinegan5p.github.io/project-1/index.html)
 
-***Introduction***
+## ***Introduction***
+
 This is a website for Yellow SEO Digital Marketing Services. 
 Yellow SEO is a fictional SEO agency based in the Mill Enterprise Hub in Drogheda Co.Louth.
 ![enter image description here](https://scontent.fdub3-2.fna.fbcdn.net/v/t39.30808-6/364763218_708016611338251_1566465120202196751_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bySZIeTGO60Q7kNvgH0knqM&_nc_ht=scontent.fdub3-2.fna&oh=00_AYBQwjovDJaJhnMA27skslJuHxWjsNTtEX7dpBX3MRLPig&oe=66774BCF)
@@ -34,6 +38,5 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 Source [(Digital Marketing Institute)](https://digitalmarketinginstitute.com/blog/how-to-nurture-leads-at-each-stage-of-the-sales-funnel)
 
 ![enter image description here](https://www.reliablesoft.net/wp-content/uploads/2023/11/digital-marketing-funnel-new-2048x1446.webp)
-
 
 
