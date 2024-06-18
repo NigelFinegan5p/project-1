@@ -31,13 +31,10 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 
 -   Increase in the number of site views, click-thru rates and highlighting the Yellow SEO agency brand.
 -   Promote the brand and the business capabilities.
--   Provide multiple ways for new and existing customers to contact the business and increase leads.
+-   Provide multiple ways for new and potential customers to contact the business and increase lead generation.
 -   Provide essential information about the business packages to customers allowing for more touch points.
-- Maximising the customer funnel driving awareness and discovery with a fully optimised mobile website. 
+- Maximising brand awareness and driving interest & consideration with a fully optimised mobile website. 
 
-Source [(Digital Marketing Institute)](https://digitalmarketinginstitute.com/blog/how-to-nurture-leads-at-each-stage-of-the-sales-funnel)
-
-![enter image description here](https://www.reliablesoft.net/wp-content/uploads/2023/11/digital-marketing-funnel-new-2048x1446.webp)
 
 ## Website design & SEO in Visual Language
 
