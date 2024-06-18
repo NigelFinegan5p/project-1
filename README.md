@@ -2,7 +2,7 @@
 
 ## Mobile First Marketing Services for Search Engine Page Results
 
-![YellowSEO-main-image](https://smithhousedesign.com/wp-content/uploads/2017/03/smithHOUSE-design-SEO-phoenix-digital-marketing-golden.jpg)
+![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image1yellow.jpg)
 (Developer: Nigel Finegan)
 [Live Website](https://nigelfinegan5p.github.io/project-1/index.html)
 [Live Repository](https://github.com/NigelFinegan5p?tab=repositories)
