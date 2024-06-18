@@ -39,4 +39,26 @@ Source [(Digital Marketing Institute)](https://digitalmarketinginstitute.com/blo
 
 ![enter image description here](https://www.reliablesoft.net/wp-content/uploads/2023/11/digital-marketing-funnel-new-2048x1446.webp)
 
+## Website design & SEO in Visual Language
 
+Today we are competing with 1000s of other service suppliers across digital boundaries.
+
+The point here is that all good SEO work should show movement upward on Google’s search results or Search Engine Page Results. As Peter Drucker said the old adage of what gets measured gets managed.
+
+Your ability to earn your way on Page 1 depends mostly on the industry structure and the competitive environment of your industry.
+
+This website is designed with a core focus of visually imparting to the user the focus of this agency, SEO at its heart.
+
+The website is designed with a three page sleek, visually appealing SEO focus allowing the user to easily and precisely locate the information, the core services of the business and decide to engage their services.
+
+The priorities on the site are the fundamental packages on offer to the customer and information about the location of the office.
+
+Each of the three information pages, the user can navigate directly from page title and information via clearly labelled in the links.
+
+The contact page features a form where the users can sign up to our Yellow SEO newsletter and receive free tips and advice. The design is kept clean and simple.
+
+As one of the main business & project objectives is to showcase our core service SEO we went with a Visual first approach.
+
+During extensive competitor research other digital agencies go in-depth with screen shots of analytics and keyword research and overloading potential new customers. For this reason we took the visual first project scope focusing on a number of primary white and yellow SEO images.
+
+We took a Macro approach to a Micro challenge & problem.
