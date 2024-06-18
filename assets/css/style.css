@@ -203,7 +203,7 @@ main {
   }
   
   /* Style the input elements and the submit button */
-  input[type=text], input[type=submit] {
+  input[type=text], input[type=submit], input[type=email] {
     width: 100%;
     padding: 10px;
     margin: 8px 0;
