@@ -19,15 +19,15 @@ At Yellow SEO, we highlight our clients' websites, leading to concrete increases
 We are a growing SEO agency built on a vision, and that is providing a real options for safe, natural, and sure-fire growth through Search Engine Optimization in an increasingly mobile first world.
 
 We are SEO experts and account managers based out of the mill Enterprise Hub, Drogheda, who you will get to know as business partners as our primary focus is the long term sustainability of the SME sector in E-Commerce.
-## Project Goals
+## Project Objectives
 
-### User Goals
+### User Objectives
 -   Finding a Digital SEO agency focused on the SME sector and the nuances within each industry, sector and market.
 -   See our service and package offers with clear structure & pricing.
 -   Find information about the agency and their location.
 -   Find the location and contact details of the agency.
 
-### Site Owner Goals
+### Site Owner Objectives
 
 -   Increase in the number of site views, click-thru rates and highlighting the Yellow SEO agency brand.
 -   Promote the brand and the business capabilities.
@@ -43,13 +43,13 @@ Source [(Digital Marketing Institute)](https://digitalmarketinginstitute.com/blo
 
 Today we are competing with 1000s of other service suppliers across digital boundaries.
 
-The point here is that all good SEO work should show movement upward on Google’s search results or Search Engine Page Results. As Peter Drucker said the old adage of what gets measured gets managed.
+The point here is that all good SEO work should show movement upward on Google’s search results or Search Engine Page Results (SERP'S for Short). As Peter Drucker said, the old adage of what gets measured gets managed.
 
 Your ability to earn your way on Page 1 depends mostly on the industry structure and the competitive environment of your industry.
 
 This website is designed with a core focus of visually imparting to the user the focus of this agency, SEO at its heart.
 
-The website is designed with a three page sleek, visually appealing SEO focus allowing the user to easily and precisely locate the information, the core services of the business and decide to engage their services.
+The website is designed with a three page sleek, visually appealing SEO focus allowing the user to easily and precisely locate the information, the core services of the business when they decide to engage or enquire about their services.
 
 The priorities on the site are the fundamental packages on offer to the customer and information about the location of the office.
 
@@ -57,8 +57,8 @@ Each of the three information pages, the user can navigate directly from page ti
 
 The contact page features a form where the users can sign up to our Yellow SEO newsletter and receive free tips and advice. The design is kept clean and simple.
 
-As one of the main business & project objectives is to showcase our core service SEO we went with a Visual first approach.
+As one of the main business & project objectives is to showcase the core service SEO we went with a Visual first approach.
 
-During extensive competitor research other digital agencies go in-depth with screen shots of analytics and keyword research and overloading potential new customers. For this reason we took the visual first project scope focusing on a number of primary white and yellow SEO images.
+During extensive competitor research other digital agencies go in-depth with screen shots of analytics and keyword research and overloading potential new customers. For this reason we took the visual first project scope, focusing on a number of primary white and yellow SEO images.
 
 We took a Macro approach to a Micro challenge & problem.
