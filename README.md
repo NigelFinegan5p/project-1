@@ -63,3 +63,5 @@ We took a Macro approach to a Micro challenge & problem.
 
 
 ![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image4white.jpg)
+
+
