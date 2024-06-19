@@ -60,3 +60,6 @@ As one of the main business & project objectives is to showcase the core service
 During extensive competitor research other digital agencies go in-depth with screen shots of analytics and keyword research and overloading potential new customers. For this reason we took the visual first project scope, focusing on a number of primary white and yellow SEO images.
 
 We took a Macro approach to a Micro challenge & problem.
+
+
+![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image4white.jpg)
