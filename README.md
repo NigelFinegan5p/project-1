@@ -65,3 +65,40 @@ We took a Macro approach to a Micro challenge & problem.
 ![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image4white.jpg)
 
 
+## Target Market & Persona of Yellow SEO services
+
+***Persona - Ethical Edward***
+![persona1](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/persona1.jpg)
+Eco Ethical is health food store in Ranelagh Dublin. It has a local market Share 9.6% of health food sales in the area.
+
+The proprietor Ethical Edward is in his mid 40’s and lives above the shop in Ranelagh.
+
+The shop generates €387,000 in revenue per annum and has a Gross profit margin of 16%
+
+Edwards Interests & Personal Habits include daily walks, checking the shop social media page, and helping customers find products in his store. As he lives an active lifestyle he can be found cycling in the evening.
+
+He can be found chilling at the weekend in a coffee shop close by while part-time student staff handle the store sales and customer queries.
+
+He considers himself and Digital Native, likes Glamping, surfing in bundoran and spending on ethical consumer items.
+
+His digital media Habits include – Instagram, Facebook, LinkedIn, Business email.
+
+He would like to grow the online business and is seeking to acquire more knowledge in the SEO field.
+
+***Persona - INDIE the Indulger***
+
+Indie Yoga & Pilates is retail consumer focused yoga & Pilates provider in in Ashbourne Co. Meath. She has built up a local market Share 19.8% of in the local area.
+
+The proprietor is Indie the Indulger in her mid-30’s’s and she lives in Duleek.
+
+The classes generate €245,000 in revenue per annum and have a Gross profit margin of 52%. Only two instructors are employed in the business and Indie teaches most of the daily classes
+
+Indies Interests & Personal Habits include daily walks, stretching, yoga, checking the social media pages.
+
+She can be found at the weekend relaxing with her family while the other instructors handle Saturday & Sunday.
+
+She considers herself a Digital Native, likes swimming and shopping.
+
+Her media media Habits – Tik Tok, Facebook, LinkedIn, and business Email.
+
+She would like to grow the online bookings of her business using an online payment provider and is seeking to acquire more knowledge in the SEO & digital marketing field.
