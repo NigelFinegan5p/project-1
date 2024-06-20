@@ -234,7 +234,7 @@ main {
     opacity: 0.8;
   } 
 
-
+  
 /* bottom bannerbelow packages above footer */
 #banner {
     background: url("../images/image4white.jpg") no-repeat center/cover;
@@ -301,12 +301,7 @@ main {
     #packages > div {
         text-align: left;
         align-self: flex-end;
-    }
-
-
-
-
-    
+    }  
 }
 
 /* large devices of 992 and above */
