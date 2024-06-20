@@ -163,8 +163,14 @@ main {
     width: 50%;
     border: none;
 }
-/* test about us page */
-/* test about us page */
+/* about us page newsletter Sign UP thank you message */
+#thank-you {
+    border: solid #f2c40f 5px;
+    padding: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+/* about us page newsletter Sign Up thank you message */
 /* about us page Contact details & address */
 #about-us {
     width: 90%;
