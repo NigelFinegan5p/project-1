@@ -86,7 +86,7 @@ His digital media Habits include – Instagram, Facebook, LinkedIn, Business ema
 He would like to grow the online business and is seeking to acquire more knowledge in the SEO field.
 
 ***Persona - INDIE the Indulger***
-
+![persona2](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/perona2.jpg)
 Indie Yoga & Pilates is retail consumer focused yoga & Pilates provider in in Ashbourne Co. Meath. She has built up a local market Share 19.8% of in the local area.
 
 The proprietor is Indie the Indulger in her mid-30’s’s and she lives in Duleek.
