@@ -116,7 +116,7 @@ The design of the website is sleek clean and simple.
 
 The website is designed as three separate pages to enable the user to easily and precisely manage their site journey and time on site. 
 
-The primary objective of the site is Brand impact first then information about the core product packages and the office location.
+The primary objective of the site is Brand impact first then information about the core product packages and the office location, thereby bringing new and potential customers along the buyer journey to consderation and coversion. 
 
 From each of the three information pages, the user can navigate directly to the page as it’s clearly labelled.
 
