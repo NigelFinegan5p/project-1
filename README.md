@@ -105,7 +105,41 @@ She would like to grow the online bookings of her business using an online payme
 
 ## ***Alignment with customer needs***
 
- At Yellow SEO our aim at Yellow SEO is to provide **a good solution to the users' demands and expectations**. And to provide real world robust perceptive, penetrating Search Engine Optimization plans for the SME sector in the UK & Ireland.
+At Yellow SEO our aim is to provide **a good solution to the users' demands and expectations**. And to provide real world robust perceptive, penetrating Search Engine Optimization plans for the SME sector in the UK & Ireland.
 
 We aim to produce clearly understandable sector specific plans that are, sector tested, fit for purpose and produce consistent results.
+
+
+## **Design of the website**
+
+The design of the website is sleek clean and simple.
+
+The website is designed as three separate pages to enable the user to easily and precisely manage their site journey and time on site. 
+
+The primary objective of the site is Brand impact first then information about the core product packages and the office location.
+
+From each of the three information pages, the user can navigate directly to the page as it’s clearly labelled.
+
+With the navigation links in the header users are easily able to navigate to the three options.
+
+The landing page shows the primary SEO design logo in yellow and in white and is combined with text detailing the Core Packages available from Yellow SEO
+
+The SEO Services page includes our six step approach to SERP’s (Search Engine Page Results). Additionally a custom banner is located above the footer with a tagline “Let us open doors for you. Try Yellow SEO”. The background picture on the banner shows a closed white door.
+
+The about us page features a form where the users can sign up to a monthly newsletter. After signing up the user moves to a thank you page with an embedded link to the GOOGLE (SOTR) Search Off The Record podcast.
+
+The vision of Yellow SEO is building on a core purpose of perceptive, penetrating Search Engine Optimization plans for the SME sector using a pragmatic step by step tested approach.
+
+After extensive competitor analysis we decided for minimal information on the complexities of crawling & indexing,  meta tags, keywords, site structure, load speed, and backlinks. Instead we aimed to avoid this by taking a Macro approach and focus on the big picture first. 
+A Macro first then Micro approach.
+
+Alignment of customer needs and understanding user intent was at the fore front of our idea generation, brain storming and note taking for this project. 
+
+To pin down our target audience we created target personas for the users, creating a profile of two business owners, Ethical Edward and Indie the Indulger and there behaviours, habits, wants, needs and expectations.
+
+We looked at the buyer journey and adapted it to our service/package offering in a price/value approach.
+
+**Wireframes**
+
+The initial wireframes are hand sketched and can be seen here. Not all design features were implemented, as the project moved forward, changes were made and ideas developed and tweaked. 
 
