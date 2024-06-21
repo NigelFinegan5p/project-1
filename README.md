@@ -102,3 +102,7 @@ She considers herself a Digital Native, likes swimming and shopping.
 Her media media Habits – Tik Tok, Facebook, LinkedIn, and business Email.
 
 She would like to grow the online bookings of her business using an online payment provider and is seeking to acquire more knowledge in the SEO & digital marketing field.
+
+ ***Alignment with customer(persona) needs***
+ Our aim at Yellow SEO is to provide **a good solution to the users' demands and expectations**. And to provide real world robust perceptive, penetrating Search Engine Optimization plans for the SME sector in the UK & Ireland.
+
