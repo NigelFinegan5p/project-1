@@ -105,7 +105,7 @@ She would like to grow the online bookings of her business using an online payme
 
 ## ***Alignment with customer needs***
 
- Our aim at Yellow SEO is to provide **a good solution to the users' demands and expectations**. And to provide real world robust perceptive, penetrating Search Engine Optimization plans for the SME sector in the UK & Ireland.
+ At Yellow SEO our aim at Yellow SEO is to provide **a good solution to the users' demands and expectations**. And to provide real world robust perceptive, penetrating Search Engine Optimization plans for the SME sector in the UK & Ireland.
 
 We aim to produce clearly understandable sector specific plans that are, sector tested, fit for purpose and produce consistent results.
 
