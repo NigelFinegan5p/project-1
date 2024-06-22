@@ -143,9 +143,9 @@ We looked at the buyer journey and adapted it to our service/package offering in
 
 The initial wireframes are hand sketched and can be seen here. Not all design features were implemented, as the project moved forward, changes were made and ideas developed and tweaked. A second sketch was added later in the project as some of the original ideas needed to be changed and for responsive design.  
 Sketch 1
-![Sketch1](https://nigelfinegan5p-project1-pd3br3jfh18.ws.codeinstitute-ide.net/)
+![Sketch1](https://github.com/NigelFinegan5p/project-1/blob/main/wireframe/wireframe3.jpg)
 Sketch 2
-![Sketch2](https://nigelfinegan5p-project1-pd3br3jfh18.ws.codeinstitute-ide.net/)
+![Sketch2](https://github.com/NigelFinegan5p/project-1/blob/main/wireframe/wireframe2.jpg)
 Sketch 3
-![sketch3](https://nigelfinegan5p-project1-pd3br3jfh18.ws.codeinstitute-ide.net/)
+![sketch3](https://github.com/NigelFinegan5p/project-1/blob/main/wireframe/wireframe1.jpg)
 
