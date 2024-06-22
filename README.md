@@ -141,4 +141,11 @@ We looked at the buyer journey and adapted it to our service/package offering in
 
 **Wireframes**
 
-The initial wireframes are hand sketched and can be seen here. Not all design features were implemented, as the project moved forward, changes were made and ideas developed and tweaked. A second sketch was added later in the project as some of the original ideas needed to be changed and for responsive design.  
+The initial wireframes are hand sketched and can be seen here. Not all design features were implemented, as the project moved forward, changes were made and ideas developed and tweaked. A second sketch was added later in the project as some of the original ideas needed to be changed and for responsive design.
+
+Sketch 1
+![s1](https://github.com/NigelFinegan5p/project-1/blob/main/assets/wireframe/wireframe1.jpg)
+Sketch 2
+![s2](https://github.com/NigelFinegan5p/project-1/blob/main/assets/wireframe/wireframe2.jpg)
+Sketch 3
+![s3](https://github.com/NigelFinegan5p/project-1/blob/main/assets/wireframe/wireframe3.jpg)
