@@ -162,6 +162,7 @@ The left side of navigation bar features the business logo which links to the ho
 Links to each of the three pages of the site: Home, Our Services, About Us are conventionally positioned on the top right.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/navigation.jpg)
 
+
 ***Footer***
 
 The footer is visible on all pages. Social media links are available to the site visitor on all website pages.
@@ -173,10 +174,12 @@ The far right icon is a Podcast Icon for the SOTR Search off the Record podcast 
 The footer is responsive with a map icon, podcast & social media icons in the center of the footer as the screen size reduces. We used Developer Tools to test this responsiveness.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/footer.jpg)
 
+
 ***Hero & Background Image***
 
 Each page features a hero image. A large white SEO Logo is embedded underneath, with text overlay indicating the services and six steps in our SEO process as per the landing page and the SEO services page.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/hero.jpg)
+
 
 ***Home / Landing page***
 
@@ -186,6 +189,7 @@ The text includes Yellow SEO packages available under the headings of Corporate 
 
 These packages supply the user with consolidated information so as to encourage users to navigate to the SEO services page for more information.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/landing.jpg)
+
 
 ***Banner***
 
@@ -220,15 +224,18 @@ Sign up details
 Thank You Page
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/thankyou.png)
 
+
 ***Map***
 
 In the footer there is a map embedded with an appropriate icon to match. This link opens a new window to the office location at Mill Enterprise Hub in Drogheda Co. Louth
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/map.jpg)
 
+
 ***Podcast***
 
 The footer has a Podcast link with a sound icon to the google podcast called (SOTR) Search off the Record podcast. This link opens a new window to the podcast. This is a high listenership podcast from the Google Development team.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/podcast.jpg)
+
 
 ***SEO Services***
 
@@ -238,6 +245,7 @@ The SEO services page includes our SEO process broken down into the following si
 
 Additional information relating to the each of the six point steps is included in the text. The text overlay sits on top of a large white SEO logo.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/services.jpg)
+
 
 ***Languages***
 
