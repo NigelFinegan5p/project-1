@@ -258,6 +258,7 @@ The SEO services page includes our SEO process broken down into the following si
 Additional information relating to the each of the six point steps is included in the text. The text overlay sits on top of a large white SEO logo.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/services.jpg)
 
+<br>
 
 ***Languages***
 
