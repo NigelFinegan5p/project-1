@@ -166,6 +166,7 @@ Links to each of the three pages of the site: Home, Our Services, About Us are c
 
 <br>
 <br>
+
 ***Footer***
 
 The footer is visible on all pages. Social media links are available to the site visitor on all website pages.
@@ -180,6 +181,7 @@ The footer is responsive with a map icon, podcast & social media icons in the ce
 
 <br>
 <br>
+
 ***Hero & Background Image***
 
 Each page features a hero image. A large white SEO Logo is embedded underneath, with text overlay indicating the services and six steps in our SEO process as per the landing page and the SEO services page.
@@ -188,6 +190,7 @@ Each page features a hero image. A large white SEO Logo is embedded underneath, 
 
 <br>
 <br>
+
 ***Home / Landing page***
 
 The Home/landing page features a large Yellow SEO image to catch the user's attention on landing at the site.
@@ -200,6 +203,7 @@ These packages supply the user with consolidated information so as to encourage 
 
 <br>
 <br>
+
 ***Banner***
 
 Above the footer and at the bottom of the main content is a custom banner designed on canva. The text overlay on the back ground image has the following text “let us open doors for you”.
