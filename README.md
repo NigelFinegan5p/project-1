@@ -151,6 +151,7 @@ Sketch 3
 ![s3](https://github.com/NigelFinegan5p/project-1/blob/main/assets/wireframe/wireframe3.jpg)
 
 
+<br>
 ## Features & Site build
 
 ***Navigation Bar***
@@ -162,7 +163,7 @@ The left side of navigation bar features the business logo which links to the ho
 Links to each of the three pages of the site: Home, Our Services, About Us are conventionally positioned on the top right.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/navigation.jpg)
 
-
+<br>
 ***Footer***
 
 The footer is visible on all pages. Social media links are available to the site visitor on all website pages.
@@ -174,13 +175,13 @@ The far right icon is a Podcast Icon for the SOTR Search off the Record podcast 
 The footer is responsive with a map icon, podcast & social media icons in the center of the footer as the screen size reduces. We used Developer Tools to test this responsiveness.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/footer.jpg)
 
-
+<br>
 ***Hero & Background Image***
 
 Each page features a hero image. A large white SEO Logo is embedded underneath, with text overlay indicating the services and six steps in our SEO process as per the landing page and the SEO services page.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/hero.jpg)
 
-
+<br>
 ***Home / Landing page***
 
 The Home/landing page features a large Yellow SEO image to catch the user's attention on landing at the site.
@@ -190,7 +191,7 @@ The text includes Yellow SEO packages available under the headings of Corporate 
 These packages supply the user with consolidated information so as to encourage users to navigate to the SEO services page for more information.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/landing.jpg)
 
-
+<br>
 ***Banner***
 
 Above the footer and at the bottom of the main content is a custom banner designed on canva. The text overlay on the back ground image has the following text “let us open doors for you”.
@@ -198,7 +199,7 @@ Above the footer and at the bottom of the main content is a custom banner design
 The background image used for this banner is of two white doors closed, the tag line emphasize that we can open closed doors.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/banner.jpg)
 
-
+<br>
 ***About Us Page***
 
 The about us page features a short introduction to the business with the email address, office address and opening hours for customers to reach out.
@@ -208,7 +209,7 @@ The About us page has two sections, one with general information about the busin
 The information is concise to the point about what Yellow SEO stands for, a real option for safe, natural, and sure-fire growth through Search Engine Optimization and commitment to excellence. Their aim at Yellow is to produce clearly understandable sector specific plans that are, sector tested, fit for purpose and produce consistent results.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/about.jpg)
 
-
+<br>
 ***Newsletter, Sign Up & Thank you***
 
 Our sign up included a form for the user to enter name, email with a subscribe button.
@@ -224,19 +225,19 @@ Sign up details
 Thank You Page
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/thankyou.png)
 
-
+<br>
 ***Map***
 
 In the footer there is a map embedded with an appropriate icon to match. This link opens a new window to the office location at Mill Enterprise Hub in Drogheda Co. Louth
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/map.jpg)
 
-
+<br>
 ***Podcast***
 
 The footer has a Podcast link with a sound icon to the google podcast called (SOTR) Search off the Record podcast. This link opens a new window to the podcast. This is a high listenership podcast from the Google Development team.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/podcast.jpg)
 
-
+<br>
 ***SEO Services***
 
 The SEO services page includes our SEO process broken down into the following six steps
@@ -246,7 +247,7 @@ The SEO services page includes our SEO process broken down into the following si
 Additional information relating to the each of the six point steps is included in the text. The text overlay sits on top of a large white SEO logo.
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/services.jpg)
 
-
+<br>
 ***Languages***
 
 HTML (Hypertext Mark-up Language) was used to design the basic website and CSS (Cascading Style Sheets) to style the website and make it look more appealing to the site visitors and potential new customers.
