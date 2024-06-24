@@ -177,6 +177,7 @@ The far right icon is a Podcast Icon for the SOTR Search off the Record podcast 
 
 The footer is responsive with a map icon, podcast & social media icons in the center of the footer as the screen size reduces. We used Developer Tools to test this responsiveness.
 <br>
+<br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/footer.jpg)    
 
 <br>
@@ -185,6 +186,7 @@ The footer is responsive with a map icon, podcast & social media icons in the ce
 ***Hero & Background Image***
 
 Each page features a hero image. A large white SEO Logo is embedded underneath, with text overlay indicating the services and six steps in our SEO process as per the landing page and the SEO services page.
+<br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/hero.jpg)
 
@@ -199,6 +201,7 @@ The text includes Yellow SEO packages available under the headings of Corporate 
 
 These packages supply the user with consolidated information so as to encourage users to navigate to the SEO services page for more information.
 <br>
+<br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/landing.jpg)
 
 <br>
@@ -209,6 +212,7 @@ These packages supply the user with consolidated information so as to encourage 
 Above the footer and at the bottom of the main content is a custom banner designed on canva. The text overlay on the back ground image has the following text “let us open doors for you”.
 
 The background image used for this banner is of two white doors closed, the tag line emphasize that we can open closed doors.
+<br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/banner.jpg)   
 
@@ -222,6 +226,7 @@ The about us page features a short introduction to the business with the email a
 The About us page has two sections, one with general information about the business and the other providing a short introduction to Yellow SEO, its mission and its people.
 
 The information is concise to the point about what Yellow SEO stands for, a real option for safe, natural, and sure-fire growth through Search Engine Optimization and commitment to excellence. Their aim at Yellow is to produce clearly understandable sector specific plans that are, sector tested, fit for purpose and produce consistent results.
+<br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/about.jpg)  
 
@@ -240,9 +245,11 @@ Also included is an embedded podcast from google called (SOTR) Search off the Re
 
 Sign up details
 <br>
+<br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/newsletter.jpg)
 <br>
 Thank You Page
+<br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/thankyou.png)
 
@@ -253,6 +260,7 @@ Thank You Page
 
 In the footer there is a map embedded with an appropriate icon to match. This link opens a new window to the office location at Mill Enterprise Hub in Drogheda Co. Louth
 <br>
+<br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/map.jpg)
 
 <br>
@@ -261,6 +269,7 @@ In the footer there is a map embedded with an appropriate icon to match. This li
 ***Podcast***
 
 The footer has a Podcast link with a sound icon to the google podcast called (SOTR) Search off the Record podcast. This link opens a new window to the podcast. This is a high listenership podcast from the Google Development team.
+<br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/podcast.jpg)
 
@@ -274,6 +283,7 @@ The SEO services page includes our SEO process broken down into the following si
 1. Digital Marketing Specialist, 2. Keyword and Backlink Sector Research, 3. Website Optimization, 4. Strategy Implementation, 5. Campaign Tracking, 6. Building Brand Authority.
 
 Additional information relating to the each of the six point steps is included in the text. The text overlay sits on top of a large white SEO logo.
+<br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/services.jpg)
 
