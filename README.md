@@ -388,4 +388,24 @@ Lighthouse Testing index.HTML
  World Wide Web Consortium Validation index.html
  <br>
 
- ![index.html]()
+ ![index.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-index.html.jpg)
+
+ <br>
+World Wide Web Consortium Validation services.html
+ <br>
+
+ ![services.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-seoservices.html.png)
+
+ <br>
+World Wide Web Consortium Validation about.html
+<br>
+
+![about.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-aboutus.html.jpg)
+
+<br>
+World Wide Web Consortium Validation style.css
+<br>
+
+![style.css](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-style.css.jpg)
+
+<br>
