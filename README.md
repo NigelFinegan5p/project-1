@@ -381,3 +381,11 @@ Lighthouse Testing index.HTML
  ![about.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/lighthouse-testing-about.html.jpg)
 
  <br>
+ <br>
+
+ ## HTML & CSS Validation
+ <br>
+ World Wide Web Consortium Validation index.html
+ <br>
+
+ 
