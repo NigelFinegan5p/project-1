@@ -295,3 +295,36 @@ Additional information relating to the each of the six point steps is included i
 HTML (Hypertext Mark-up Language) was used to design the basic website and CSS (Cascading Style Sheets) to style the website and make it look more appealing to the site visitors and potential new customers.
 
 <br>
+
+***Fonts & Colors***
+
+<br>
+
+**Color**
+
+<br>
+
+During extensive competitor research of other digital agencies my approach to this project was to create a simple impactful visual approach focusing on a number of primary white and yellow SEO images. We took a Macro approach to a Micro challenge & problem by not bringing in layers of technicalities to the SEO process and risking overloading the site visitor with a tutorial approach.
+
+The following colors are used
+
+-   #ffffff - White
+-   #000000 - Black
+-   #f2c40f - Yellow
+
+The theme of the colour scheme is minimalist, bright and in alignemnt with the overall mission, vision and values of the business and its core product offering. The background is neutral white for good contrast with the black text overlay.
+
+<br>
+
+**Typography -**
+
+<br>
+
+The font's chosen for the yellow seo project are:
+
+-   Zen Dots
+-   Amaranth
+
+The logic behind this decision is that I wanted all of the information provided on the website to be aligned in a brand image, clear, concise and without any unnecessary changes in typography. Additionally a focus was to assist users who may have any level of visual impairment.
+
+<br>
