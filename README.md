@@ -351,12 +351,33 @@ On the SEO services page & about us page we would like to create custom banners 
 
 ***Manual Testing***
 
- 1. All links on Navigation lead to their correct pages. PASS
- 2. Footer social links all lead to their respective social media sites. PASS
+ 1. All links on Navigation lead to their correct HTML pages with out error. PASS
+ 2. Footer social media links all lead to their respective social media sites. PASS
  3. Newsletter form submits when all criteria is filled correctly. PASS
  4. User prevented from submitting newletter form without correct elements. PASS
  5. Form Validation presents new thank you page. PASS
- 6. MAP Icon open to location of office. PASS.
- 7. Podcast play on thank you page after sign up. PASS
+ 6. MAP Icon opens to location of office. PASS
+ 7. Podcast plays on thank you page after sign up. PASS
+
+ <br>
+
+ ***Lighthouse Testing***
+<br>
+Lighthouse Testing index.HTML
+<br>
+
+ ![index.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/lighthouse-testing-index.html.jpg)
+
+ <br>
+ Lighthouse Testing services.html
+ <br>
+
+ ![services.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/lighthouse-testing-services-html.jpg)
+
+ <br>
+ Lighthouse Testing about.html
+ <br>
+
+ ![about.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/lighthouse-testing-about.html.jpg)
 
  <br>
