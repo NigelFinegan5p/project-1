@@ -343,3 +343,20 @@ Using a service like this to deploy on our website would instantly streamline cu
 On the SEO services page & about us page we would like to create custom banners for each page creating a level of individuality with the brand framework for each page.
 
 <br>
+<br>
+
+## **Technology & Testing**
+
+<br>
+
+***Manual Testing***
+
+ 1. All links on Navigation lead to their correct pages. PASS
+ 2. Footer social links all lead to their respective social media sites. PASS
+ 3. Newsletter form submits when all criteria is filled correctly. PASS
+ 4. User prevented from submitting newletter form without correct elements. PASS
+ 5. Form Validation presents new thank you page. PASS
+ 6. MAP Icon open to location of office. PASS.
+ 7. Podcast play on thank you page after sign up. PASS
+
+ <br>
