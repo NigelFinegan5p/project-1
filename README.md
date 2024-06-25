@@ -328,3 +328,18 @@ The font's chosen for the yellow seo project are:
 The logic behind this decision is that I wanted all of the information provided on the website to be aligned in a brand image, clear, concise and without any unnecessary changes in typography. Additionally a focus was to assist users who may have any level of visual impairment.
 
 <br>
+
+
+***Future Features***
+
+<br>
+
+Looking to add additional features to implement as the customer base of Yellow SEO grows the following would be advantageous to the user/customer experience.
+
+Customer service chat window by Intercom AI an (Intercom Customer Service Bot)
+
+Using a service like this to deploy on our website would instantly streamline customer service leads and provide accurate answers to requests and questions in real time.
+
+On the SEO services page & about us page we would like to create custom banners for each page creating a level of individuality with the brand framework for each page.
+
+<br>
