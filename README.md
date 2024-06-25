@@ -300,7 +300,7 @@ HTML (Hypertext Mark-up Language) was used to design the basic website and CSS (
 
 <br>
 
-**Color**
+***Color***
 
 <br>
 
@@ -316,7 +316,7 @@ The theme of the colour scheme is minimalist, bright and in alignemnt with the o
 
 <br>
 
-**Typography -**
+***Typography -***
 
 <br>
 
