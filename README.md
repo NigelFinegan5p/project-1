@@ -248,6 +248,7 @@ Sign up details
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/newsletter.jpg)
 <br>
+<br>
 Thank You Page
 <br>
 <br>
