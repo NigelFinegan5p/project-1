@@ -53,7 +53,7 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 
 ## Website design & SEO in Visual Language
 
-<a name="design"></a>
+<a name="website"></a>
 
 Today we are competing with 1000s of other service suppliers across digital boundaries.
 
