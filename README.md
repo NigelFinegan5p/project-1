@@ -7,6 +7,7 @@
 [Live Website](https://nigelfinegan5p.github.io/project-1/index.html)
 [Live Repository](https://github.com/NigelFinegan5p?tab=repositories)
 
+
 ## ***Introduction***
 
 This is a website for Yellow SEO Digital Marketing Services. 
@@ -428,9 +429,9 @@ To deploy my Yellow SEO project the following steps were taken:
 <br>
 
 ## Bugs, Errors & Fixes
-At the out set while setting up GitHub and the IDE workspace an number of challenges presented themselves.
-Unable to Git Push content from the workspace through to Git Hub as the error message appeared "dont have to authorization to push"
-My approach to troubleshoot this dilemma was to delete the GitHub respository, delete the workspace and reset the chrome extension in step 1, 2, 3, step process. The resolved the push error.
+At the out set while setting up GitHub and the IDE workspace a number of challenges presented themselves.
+Unable to `Git Push` content from the workspace through to Git Hub as an error message appeared requiring authorization.
+My approach to troubleshoot this dilemma was to delete the GitHub respository, delete the workspace and reset the chrome extension in step 1, 2, 3, step process. This resolved the push error by creating a new workspace file and respository file.
 
 <br> 
 
@@ -446,3 +447,16 @@ A number of other errors were made in HTML for the code written for the map. Thi
 ![error html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-aboutus.html-error.jpg)
 
 <br>
+
+## Website displayed on multiple devices
+<br>
+![devices](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/alldevices.jpg)
+
+<br>
+
+## Acknowledgements
+<br>
+A very special thank you to Alan Bushell my mentor & advisor for the support, guidance and insightfull ideas and direction.
+
+<br>
+
