@@ -53,6 +53,8 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 
 ## Website design & SEO in Visual Language
 
+<a name="design"></a>
+
 Today we are competing with 1000s of other service suppliers across digital boundaries.
 
 The point here is that all good SEO work should show movement upward on Google’s search results or Search Engine Page Results (SERP'S for Short). As Peter Drucker said, the old adage of what gets measured gets managed.
@@ -128,6 +130,7 @@ We aim to produce clearly understandable sector specific plans that are, sector 
 
 ## **Design of the website**
 
+<a name="site"></a>
 The design of the website is sleek clean and simple.
 
 The website is designed as three separate pages to enable the user to easily and precisely manage their site journey and time on site. 
@@ -170,6 +173,7 @@ Sketch 3
 ## Features & Site build
 
 <br>
+<a name="features"></a>
 
 ***Navigation Bar***
 
@@ -364,6 +368,7 @@ On the SEO services page & about us page we would like to create custom banners 
 
 ## **Technology & Testing**
 
+<a name="technology"></a>
 <br>
 
 ***Manual Testing***
@@ -403,6 +408,8 @@ Lighthouse Testing index.HTML
  <br>
 
  ## HTML & CSS Validation
+
+ <a name="html"></a>
  <br>
  World Wide Web Consortium Validation index.html
  <br>
@@ -430,6 +437,9 @@ World Wide Web Consortium Validation style.css
 <br>
 
 ## Deployment
+
+<a name="deployment"></a>
+
 To deploy my Yellow SEO project the following steps were taken:
 
 1.  Clicked on  `Settings` on the navigation menu in the GitHub repository
@@ -442,6 +452,9 @@ To deploy my Yellow SEO project the following steps were taken:
 <br>
 
 ## Bugs, Errors & Fixes
+
+<a name="bugs"></a>
+
 At the out set while setting up GitHub and the IDE workspace a number of challenges presented themselves.
 Unable to `Git Push` content from the workspace through to Git Hub as an error message appeared requiring authorization.
 My approach to troubleshoot this dilemma was to delete the GitHub respository, delete the workspace and reset the chrome extension in step 1, 2, 3, step process. This resolved the push error by creating a new workspace file and respository file.
