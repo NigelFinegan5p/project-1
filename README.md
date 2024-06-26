@@ -5,7 +5,7 @@
 ![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image1yellow.jpg)
 (Developer: Nigel Finegan)
 [Live Website](https://nigelfinegan5p.github.io/project-1/index.html)
-[Live Repository](https://github.com/NigelFinegan5p?tab=repositories)
+[Live Repository](https://github.com/NigelFinegan5p/project-1)
 
 ## Table of Contents
 1. [Introduction](#introduction)
