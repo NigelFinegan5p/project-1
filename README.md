@@ -17,7 +17,7 @@
 7. [HTML & CSS Validation](#validation)
 8. [Deployment](#deployment)
 9. [Bugs, Errors & Fixes](#bugs)
-10. [Acknowledgements] (#acknowledgements)
+10. [Acknowledgements](#acknowledgements)
 
 <a name="introduction"></a>
 ## ***Introduction***
