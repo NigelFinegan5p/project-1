@@ -164,9 +164,9 @@ Sketch 2
 Sketch 3
 ![s3](https://github.com/NigelFinegan5p/project-1/blob/main/assets/wireframe/wireframe3.jpg)  
 
-<a name="features"></a>
-## Features & Site build
 
+## Features & Site build
+<a name="site"></a>
 <br>
 
 ***Navigation Bar***
@@ -359,9 +359,9 @@ On the SEO services page & about us page we would like to create custom banners 
 
 <br>
 <br>
-<a name="technology"></a>
-## **Technology & Testing**
 
+## **Technology & Testing**
+<a name="technology"></a>
 <br>
 
 ***Manual Testing***
