@@ -426,6 +426,7 @@ To deploy my Yellow SEO project the following steps were taken:
 6. At the top of the page the live site link is available to open in a new window
 
 <br>
+
 ## Bugs, Errors & Fixes
 At the out set while setting up GitHub and the IDE workspace an number of challenges presented themselves.
 
