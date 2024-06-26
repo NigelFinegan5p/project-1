@@ -7,9 +7,20 @@
 [Live Website](https://nigelfinegan5p.github.io/project-1/index.html)
 [Live Repository](https://github.com/NigelFinegan5p?tab=repositories)
 
+## Table of Contents
+1. [ Introduction] (#introduction)
+2. [ Target Market & Persona of Yellow SEO Services] (#market)
+3. [ Website design & SEO in Visual Language] (#design)
+4. [ Design of Website] (#site)
+5. [ Features & site build] (#features)
+6. [ Technology & Testing] (#testing)
+7. [ HTML & CSS Validation] (#validation)
+8. [ Deployment ] (#deployment)
+9. [ Bugs, Errors & Fixes] (#bugs)
+10. [ Acknowledgements] (#acknowledgements)
 
+<a name="introduction"></a>
 ## ***Introduction***
-
 This is a website for Yellow SEO Digital Marketing Services. 
 Yellow SEO is a fictional SEO agency based in the Mill Enterprise Hub in Drogheda Co.Louth.
 ![enter image description here](https://scontent.fdub3-2.fna.fbcdn.net/v/t39.30808-6/364763218_708016611338251_1566465120202196751_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bySZIeTGO60Q7kNvgH0knqM&_nc_ht=scontent.fdub3-2.fna&oh=00_AYBQwjovDJaJhnMA27skslJuHxWjsNTtEX7dpBX3MRLPig&oe=66774BCF)
@@ -39,7 +50,7 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 - Maximising brand awareness and driving interest & consideration with a fully optimised responsive website. 
 
 
-
+<a name="design"></a>
 ## Website design & SEO in Visual Language
 
 Today we are competing with 1000s of other service suppliers across digital boundaries.
@@ -67,7 +78,7 @@ We took a Macro approach to a Micro challenge & problem.
 
 ![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image4white.jpg)
 
-
+<a name="market"></a>
 ## Target Market & Persona of Yellow SEO services
 
 ***Persona - Ethical Edward***
@@ -112,7 +123,7 @@ At Yellow SEO our aim is to provide **a good solution to the users' demands and 
 
 We aim to produce clearly understandable sector specific plans that are, sector tested, fit for purpose and produce consistent results.
 
-
+<a name="site"></a>
 ## **Design of the website**
 
 The design of the website is sleek clean and simple.
@@ -153,7 +164,7 @@ Sketch 2
 Sketch 3
 ![s3](https://github.com/NigelFinegan5p/project-1/blob/main/assets/wireframe/wireframe3.jpg)  
 
-
+<a name="features"></a>
 ## Features & Site build
 
 <br>
@@ -348,7 +359,7 @@ On the SEO services page & about us page we would like to create custom banners 
 
 <br>
 <br>
-
+<a name="technology"></a>
 ## **Technology & Testing**
 
 <br>
@@ -388,7 +399,7 @@ Lighthouse Testing index.HTML
 
  <br>
  <br>
-
+<a name="html"></a>
  ## HTML & CSS Validation
  <br>
  World Wide Web Consortium Validation index.html
@@ -415,7 +426,7 @@ World Wide Web Consortium Validation style.css
 ![style.css](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-style.css.jpg)
 
 <br>
-
+<a name="deployment"></a>
 ## Deployment
 To deploy my Yellow SEO project the following steps were taken:
 
@@ -427,7 +438,7 @@ To deploy my Yellow SEO project the following steps were taken:
 6. At the top of the page the live site link is available to open in a new window
 
 <br>
-
+<a name="bugs"></a>
 ## Bugs, Errors & Fixes
 At the out set while setting up GitHub and the IDE workspace a number of challenges presented themselves.
 Unable to `Git Push` content from the workspace through to Git Hub as an error message appeared requiring authorization.
