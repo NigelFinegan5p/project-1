@@ -1,6 +1,6 @@
 # Yellow SEO
 
-## SEO Agency for digital Marketing Services & Search Engine Page Results
+## SEO Agency - Digital Marketing Services & Search Engine Page Results
 
 ![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image1yellow.jpg)
 (Developer: Nigel Finegan)
@@ -26,6 +26,8 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 -   See our service and package offers with clear structure & pricing.
 -   Find information about the agency and their location.
 -   Find the location and contact details of the agency.
+-   Look for reviews and testimonials to gauge their reputation. 
+-   Seeking quotes and proposals from multiple providers to compare pricing and capabilities.
 
 ### Site Owner Objectives
 
@@ -33,7 +35,7 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 -   Promote the brand and the business capabilities.
 -   Provide multiple ways for new and potential customers to contact the business and increase lead generation.
 -   Provide essential information about the business packages to customers allowing for more touch points.
-- Maximising brand awareness and driving interest & consideration with a fully optimised mobile website. 
+- Maximising brand awareness and driving interest & consideration with a fully optimised responsive website. 
 
 
 
@@ -47,7 +49,7 @@ Your ability to earn your way on Page 1 depends mostly on the industry structure
 
 This website is designed with a core focus of visually imparting to the user the focus of this agency, SEO at its heart.
 
-The website is designed with a three page sleek, visually appealing SEO focus allowing the user to easily and precisely locate the information, the core services of the business when they decide to engage or enquire about their services.
+The website is designed with a three page sleek, visually appealing SEO focus allowing the user to easily and precisely locate the information, the core services of the business if they decide to engage or enquire about their services.
 
 The priorities on the site are the fundamental packages on offer to the customer and information about the location of the office.
 
@@ -55,9 +57,9 @@ Each of the three information pages, the user can navigate directly from page ti
 
 The contact page features a form where the users can sign up to our Yellow SEO newsletter and receive free tips and advice. The design is kept clean and simple.
 
-As one of the main business & project objectives is to showcase the core service SEO we went with a Visual first approach.
+As one of the main project objectives is to showcase the core service of Yellow SEO we went with a Visual first approach.
 
-During extensive competitor research other digital agencies go in-depth with screen shots of analytics and keyword research and overloading potential new customers. For this reason we took the visual first project scope, focusing on a number of primary white and yellow SEO images.
+During extensive competitor research of other digital agencies, we notcied an in-depth analytics and keyword research focus with a potential of overloading potential new customers. For this reason we took a visual first approach to the project scope, focusing on a number of primary white and yellow SEO images.
 
 We took a Macro approach to a Micro challenge & problem.
 
@@ -130,7 +132,7 @@ The about us page features a form where the users can sign up to a monthly newsl
 
 The vision of Yellow SEO is building on a core purpose of perceptive, penetrating Search Engine Optimization plans for the SME sector using a pragmatic step by step tested approach.
 
-After extensive competitor analysis we decided for minimal information on the complexities of crawling & indexing,  meta tags, keywords, site structure, load speed, and backlinks. Instead we aimed to avoid this by taking a Macro approach and focus on the big picture first. 
+After extensive competitor analysis we decided for minimal information on the complexities of crawling & indexing,  meta tags, keywords, site structure, load speed, and backlinks. Instead we aimed to avoid potential information overload by taking a Macro approach and focus on the big picture first. 
 A Macro first then Micro approach.
 
 Alignment of customer needs and understanding user intent was at the fore front of our idea generation, brain storming and note taking for this project. 
@@ -173,7 +175,7 @@ The footer is visible on all pages. Social media links are available to the site
 
 Lined in a horizontal row from left to right are five icons with links to the map, address of the business and three social media accounts.
 
-The far right icon is a Podcast Icon for the SOTR Search off the Record podcast by Google Staff on the latest SEO news.
+The far right icon is a Podcast Icon for the SOTR Search Off The Record podcast by Google Staff on the latest SEO news.
 
 The footer is responsive with a map icon, podcast & social media icons in the center of the footer as the screen size reduces. We used Developer Tools to test this responsiveness.
 <br>
@@ -235,15 +237,15 @@ The information is concise to the point about what Yellow SEO stands for, a real
 
 ***Newsletter, Sign Up & Thank you***
 
-Our sign up included a form for the user to enter name, email with a subscribe button.
+Our sign up included a form for the user to enter name & email with a subscribe button.
 
-Our newsletter sign up included a Thank you, after you have signed up, with unsubscribe directions. If you decide to cancel you can unsubscribe at the bottom of the page.
+Our newsletter sign up included a Thank you, after you have signed up. We included an opt out for customers if you decide to cancel you can unsubscribe at the bottom of the page as per GDPR guidelines.
 
 We included our mission in a paragraph; we are a growing company building on our vision to provide a real option for sure-fire results for the SME sector through perceptive, penetrating Search Engine Optimisation plans.
 
-Also included is an embedded podcast from google called (SOTR) Search off the Record podcast from the Google Development team. The latest episode is embedded with a Please see below for the latest episode!
+Also included is an embedded podcast from google called (SOTR) Search Off The Record podcast from the Google Development team. The latest episode is embedded with a Please see below for the latest episode!
 
-Sign up details
+Newsletter sign up details
 <br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/newsletter.jpg)
@@ -269,7 +271,7 @@ In the footer there is a map embedded with an appropriate icon to match. This li
 
 ***Podcast***
 
-The footer has a Podcast link with a sound icon to the google podcast called (SOTR) Search off the Record podcast. This link opens a new window to the podcast. This is a high listenership podcast from the Google Development team.
+The footer has a Podcast link with a sound icon to the google podcast called (SOTR) Search Off The Record podcast. This link opens a new window to the podcast. This is a high listenership podcast from the Google Development team.
 <br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/podcast.jpg)
@@ -283,7 +285,7 @@ The SEO services page includes our SEO process broken down into the following si
 
 1. Digital Marketing Specialist, 2. Keyword and Backlink Sector Research, 3. Website Optimization, 4. Strategy Implementation, 5. Campaign Tracking, 6. Building Brand Authority.
 
-Additional information relating to the each of the six point steps is included in the text. The text overlay sits on top of a large white SEO logo.
+Additional information relating to the each of the six point steps is included in the text. The text overlay sits on top of a large white SEO logo, with a black and white contrast.
 <br>
 <br>
 ![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/services.jpg)
@@ -341,7 +343,7 @@ Customer service chat window by Intercom AI an (Intercom Customer Service Bot)
 
 Using a service like this to deploy on our website would instantly streamline customer service leads and provide accurate answers to requests and questions in real time.
 
-On the SEO services page & about us page we would like to create custom banners for each page creating a level of individuality with the brand framework for each page.
+On the SEO services page & about us page we would like to create custom banners for each page creating a level of individuality within the brand framework for each page.
 
 <br>
 <br>
@@ -359,10 +361,12 @@ On the SEO services page & about us page we would like to create custom banners 
  5. Form Validation presents new thank you page. PASS
  6. MAP Icon opens to location of office. PASS
  7. Podcast plays on thank you page after sign up. PASS
+ 8. Audio starts stops and pauses by user action not autoplay. PASS
 
  <br>
 
  ***Lighthouse Testing***
+<br>
 <br>
 Lighthouse Testing index.HTML
 <br>
