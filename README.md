@@ -19,7 +19,7 @@
 9. [Bugs, Errors & Fixes](#bugs)
 10. [Acknowledgements](#acknowledgements)
 
-<a name="introduction"></a>
+
 ## ***Introduction***
 This is a website for Yellow SEO Digital Marketing Services. 
 Yellow SEO is a fictional SEO agency based in the Mill Enterprise Hub in Drogheda Co.Louth.
@@ -50,7 +50,7 @@ We are SEO experts and account managers based out of the mill Enterprise Hub, Dr
 - Maximising brand awareness and driving interest & consideration with a fully optimised responsive website. 
 
 
-<a name="design"></a>
+
 ## Website design & SEO in Visual Language
 
 Today we are competing with 1000s of other service suppliers across digital boundaries.
@@ -78,7 +78,7 @@ We took a Macro approach to a Micro challenge & problem.
 
 ![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image4white.jpg)
 
-<a name="market"></a>
+
 ## Target Market & Persona of Yellow SEO services
 
 ***Persona - Ethical Edward***
@@ -123,7 +123,7 @@ At Yellow SEO our aim is to provide **a good solution to the users' demands and 
 
 We aim to produce clearly understandable sector specific plans that are, sector tested, fit for purpose and produce consistent results.
 
-<a name="site"></a>
+
 ## **Design of the website**
 
 The design of the website is sleek clean and simple.
@@ -166,7 +166,7 @@ Sketch 3
 
 
 ## Features & Site build
-<a name="site"></a>
+
 <br>
 
 ***Navigation Bar***
@@ -361,7 +361,7 @@ On the SEO services page & about us page we would like to create custom banners 
 <br>
 
 ## **Technology & Testing**
-<a name="technology"></a>
+
 <br>
 
 ***Manual Testing***
@@ -399,7 +399,7 @@ Lighthouse Testing index.HTML
 
  <br>
  <br>
-<a name="html"></a>
+
  ## HTML & CSS Validation
  <br>
  World Wide Web Consortium Validation index.html
@@ -426,7 +426,7 @@ World Wide Web Consortium Validation style.css
 ![style.css](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-style.css.jpg)
 
 <br>
-<a name="deployment"></a>
+
 ## Deployment
 To deploy my Yellow SEO project the following steps were taken:
 
@@ -438,7 +438,7 @@ To deploy my Yellow SEO project the following steps were taken:
 6. At the top of the page the live site link is available to open in a new window
 
 <br>
-<a name="bugs"></a>
+
 ## Bugs, Errors & Fixes
 At the out set while setting up GitHub and the IDE workspace a number of challenges presented themselves.
 Unable to `Git Push` content from the workspace through to Git Hub as an error message appeared requiring authorization.
