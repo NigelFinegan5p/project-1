@@ -457,14 +457,15 @@ A number of other errors were made in HTML for the code written for the map. Thi
 
 ## Intellectual Property & Sources
 <br>
-Yellow SEO Image - Source Smith House Design
-White SEO Image - Source Smith House Design
-Banner Open Source Image - Source Canva Design
-Banner Open Source Image - Source Canva Design
 
-Icons used are from font awesome 
-Fonts used are from google fonts
-Newsletter form adopted, edited and formatted from W3 schools
+1. Yellow SEO Image - Source Smith House Design
+2. White SEO Image - Source Smith House Design
+3. Banner Open Source Image - Source Canva Design
+4. Banner Open Source Image - Source Canva Design
+
+5. Icons used are from font awesome 
+6. Fonts used are from google fonts
+7. Newsletter form adopted, edited and formatted from W3 schools
 
 <br>
 
