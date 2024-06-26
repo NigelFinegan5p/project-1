@@ -130,7 +130,7 @@ We aim to produce clearly understandable sector specific plans that are, sector 
 
 ## **Design of the website**
 
-<a name="site"></a>
+<a name="design"></a>
 The design of the website is sleek clean and simple.
 
 The website is designed as three separate pages to enable the user to easily and precisely manage their site journey and time on site. 
