@@ -426,4 +426,19 @@ To deploy my Yellow SEO project the following steps were taken:
 6. At the top of the page the live site link is available to open in a new window
 
 <br>
+## Bugs, Errors & Fixes
+At the out set while setting up GitHub and the IDE workspace an number of challenges presented themselves.
 
+Unable to Git Push content from the workspace through to Git Hub as the error message appeared "dont have to authorization to push"
+My approach to troubleshoot this dilemma was to delete the GitHub respository, delete the workspace and reset the chrome extension in step 1, 2, 3, step process. The resolved the push error.
+<br> 
+![workspace error](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/error.jpg)
+
+<br>
+World Wide Web Consortium Validation 
+<br>
+A number of other errors were made in HTML for the code written for the map. This code was highlighted on W3C and edited. 
+<br>
+![map code error](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-aboutus.html-error.jpg)
+
+<br>
