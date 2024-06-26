@@ -480,4 +480,4 @@ A number of other errors were made in HTML for the code written for the map. Thi
 
 ## Acknowledgements
 <br>
-A big thank you to my mentor & advisor Alan Bushell for the support, guidance. He provided invaluable resources and tools for the project.  
+A big thank you to my mentor & advisor Alan Bushell for the support and guidance. He provided invaluable direction and developer tools for the project.  
