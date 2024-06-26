@@ -1,6 +1,6 @@
 # Yellow SEO
 
-## Mobile First Marketing Services for Search Engine Page Results
+## SEO Agency for digital Marketing Services & Search Engine Page Results
 
 ![YellowSEO-main-image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/image1yellow.jpg)
 (Developer: Nigel Finegan)
