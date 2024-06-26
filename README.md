@@ -9,12 +9,12 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Target Market & Persona of Yellow SEO Services](#market)
-3. [Website design & SEO in Visual Language](#design)
-4. [Design of Website](#site)
+2. [Target Market & Persona of Yellow SEO Services](#target)
+3. [Website design & SEO in Visual Language](#website)
+4. [Design of Website](#design)
 5. [Features & site build](#features)
-6. [Technology & Testing](#testing)
-7. [HTML & CSS Validation](#validation)
+6. [Technology & Testing](#technology)
+7. [HTML & CSS Validation](#html)
 8. [Deployment](#deployment)
 9. [Bugs, Errors & Fixes](#bugs)
 10. [Acknowledgements](#acknowledgements)
