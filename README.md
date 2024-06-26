@@ -450,6 +450,7 @@ A number of other errors were made in HTML for the code written for the map. Thi
 
 ## Website displayed on multiple devices
 <br>
+
 ![devices](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/alldevices.jpg)
 
 <br>
