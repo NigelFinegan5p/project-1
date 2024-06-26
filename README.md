@@ -455,9 +455,19 @@ A number of other errors were made in HTML for the code written for the map. Thi
 
 <br>
 
+## Intellectual Property & Sources
+<br>
+Yellow SEO Image - Source Smith House Design
+White SEO Image - Source Smith House Design
+Banner Open Source Image - Source Canva Design
+Banner Open Source Image - Source Canva Design
+
+Icons used are from font awesome 
+Fonts used are from google fonts
+Newsletter form adopted, edited and formatted from W3 schools
+
+<br>
+
 ## Acknowledgements
 <br>
-A very special thank you to Alan Bushell my mentor & advisor for the support, guidance and insightfull ideas and direction.
-
-<br>
-
+A big thank you to my mentor & advisor Alan Bushell for the support, guidance. He provided invaluable resources and tools for the project.  
