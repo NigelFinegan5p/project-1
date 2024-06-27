@@ -23,7 +23,7 @@
 ## ***Introduction***
 This is a website for Yellow SEO Digital Marketing Services. 
 Yellow SEO is a fictional SEO agency based in the Mill Enterprise Hub in Drogheda Co.Louth.
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/millimage.jpg)
+![Mill Image](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/millimage.jpg)
 ***A little about Yellow SEO***
 
 At Yellow SEO, we highlight our clients' websites, leading to concrete increases in organic mobile site traffic, leads, sales, visibility, and more.
@@ -182,7 +182,7 @@ The navigation bar is visible on all 4 pages including the Sign up page after si
 The left side of navigation bar features the business logo which links to the home page from every page on the site. Clicking on the logo navigates to the landing page.
 
 Links to each of the three pages of the site: Home, Our Services, About Us are conventionally positioned on the top right.
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/navigation.jpg)  
+![Nav-bar](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/navigation.jpg)  
 
 <br>
 <br>
@@ -198,7 +198,7 @@ The far right icon is a Podcast Icon for the SOTR Search Off The Record podcast 
 The footer is responsive with a map icon, podcast & social media icons in the center of the footer as the screen size reduces. We used Developer Tools to test this responsiveness.
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/bannerticket.jpg)    
+![footer](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/footer.jpg)    
 
 <br>
 <br>
@@ -208,7 +208,7 @@ The footer is responsive with a map icon, podcast & social media icons in the ce
 Each page features a hero image. A large white SEO Logo is embedded underneath, with text overlay indicating the services and six steps in our SEO process as per the landing page and the SEO services page.
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/hero.jpg)
+![hero-image](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/hero.jpg)
 
 <br>
 <br>
@@ -222,7 +222,7 @@ The text includes Yellow SEO packages available under the headings of Corporate 
 These packages supply the user with consolidated information so as to encourage users to navigate to the SEO services page for more information.
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/landing.jpg)
+![landing-page](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/landing.jpg)
 
 <br>
 <br>
@@ -234,7 +234,7 @@ Above the footer and at the bottom of the main content is a custom banner design
 The background image used for this banner is of two white doors closed, the tag line emphasize that we can open closed doors.
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/bannerticket.jpg)   
+![banner-ticket](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/bannerticket.jpg)   
 
 <br>
 <br>
@@ -248,7 +248,7 @@ The About us page has two sections, one with general information about the busin
 The information is concise to the point about what Yellow SEO stands for, a real option for safe, natural, and sure-fire growth through Search Engine Optimization and commitment to excellence. Their aim at Yellow is to produce clearly understandable sector specific plans that are, sector tested, fit for purpose and produce consistent results.
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/about.jpg)  
+![about-page](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/about.jpg)  
 
 <br>
 <br>
@@ -266,13 +266,13 @@ Also included is an embedded podcast from google called (SOTR) Search Off The Re
 Newsletter sign up details
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/newsletter.jpg)
+![newsletter](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/newsletter.jpg)
 <br>
 <br>
 Thank You Page
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/thankyou.png)
+![thank-you](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/thankyou.png)
 
 <br>
 <br>
@@ -282,7 +282,7 @@ Thank You Page
 In the footer there is a map embedded with an appropriate icon to match. This link opens a new window to the office location at Mill Enterprise Hub in Drogheda Co. Louth
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/map.jpg)
+![map-image](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/map.jpg)
 
 <br>
 <br>
@@ -292,7 +292,7 @@ In the footer there is a map embedded with an appropriate icon to match. This li
 The footer has a Podcast link with a sound icon to the google podcast called (SOTR) Search Off The Record podcast. This link opens a new window to the podcast. This is a high listenership podcast from the Google Development team.
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/podcast.jpg)
+![podcast-image](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/podcast.jpg)
 
 <br>
 <br>
@@ -306,7 +306,7 @@ The SEO services page includes our SEO process broken down into the following si
 Additional information relating to the each of the six point steps is included in the text. The text overlay sits on top of a large white SEO logo, with a black and white contrast.
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/services.jpg)
+![seo-services](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/services.jpg)
 
 <br>
 <br>
@@ -461,7 +461,7 @@ My approach to troubleshoot this dilemma was to delete the GitHub respository, d
 
 <br> 
 
-![workspace error](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/error.jpg)
+![workspace-error](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/error.jpg)
 
 <br>
 World Wide Web Consortium Validation 
@@ -470,7 +470,7 @@ A number of other errors were made in HTML for the code written for the map. Thi
 
 <br>
 
-![error html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-aboutus.html-error.jpg)
+![error-html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-aboutus.html-error.jpg)
 
 <br>
 
