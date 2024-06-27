@@ -229,9 +229,9 @@ These packages supply the user with consolidated information so as to encourage 
 
 ***Banner***
 
-Above the footer and at the bottom of the main content is a custom banner designed on canva. The text overlay on the back ground image has the following text “let us open doors for you”.
+Above the footer and at the bottom of the main content is a custom banner designed on canva. The text overlay on the black and yellow image is "Your ticket to SEO results" .
 
-The background image used for this banner is of two white doors closed, the tag line emphasize that we can open closed doors.
+The background image of a event ticket being a symbolic representation to an SEO event. The text "admit one" is on the right hand side of the ticket. 
 <br>
 <br>
 ![banner-ticket](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/bannerticket.jpg)   
