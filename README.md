@@ -23,7 +23,7 @@
 ## ***Introduction***
 This is a website for Yellow SEO Digital Marketing Services. 
 Yellow SEO is a fictional SEO agency based in the Mill Enterprise Hub in Drogheda Co.Louth.
-![enter image description here](https://scontent.fdub3-2.fna.fbcdn.net/v/t39.30808-6/364763218_708016611338251_1566465120202196751_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bySZIeTGO60Q7kNvgH0knqM&_nc_ht=scontent.fdub3-2.fna&oh=00_AYBQwjovDJaJhnMA27skslJuHxWjsNTtEX7dpBX3MRLPig&oe=66774BCF)
+![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/assets/images/millimage.jpg)
 ***A little about Yellow SEO***
 
 At Yellow SEO, we highlight our clients' websites, leading to concrete increases in organic mobile site traffic, leads, sales, visibility, and more.
