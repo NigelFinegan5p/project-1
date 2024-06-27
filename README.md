@@ -182,7 +182,7 @@ The navigation bar is visible on all 4 pages including the Sign up page after si
 The left side of navigation bar features the business logo which links to the home page from every page on the site. Clicking on the logo navigates to the landing page.
 
 Links to each of the three pages of the site: Home, Our Services, About Us are conventionally positioned on the top right.
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/navigation.jpg)  
+![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/navigation.jpg)  
 
 <br>
 <br>
@@ -198,7 +198,7 @@ The far right icon is a Podcast Icon for the SOTR Search Off The Record podcast 
 The footer is responsive with a map icon, podcast & social media icons in the center of the footer as the screen size reduces. We used Developer Tools to test this responsiveness.
 <br>
 <br>
-![enter image description here](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/footer.jpg)    
+![enter image description here]()    
 
 <br>
 <br>
