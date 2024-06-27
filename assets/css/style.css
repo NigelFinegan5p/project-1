@@ -167,8 +167,8 @@ main {
 #thank-you {
     border: solid #f2c40f 5px;
     padding: 15px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #podcast {
@@ -243,9 +243,9 @@ main {
 
 /* bottom bannerbelow packages above footer */
 #banner {
-    background: url("../images/banner.final..jpg") no-repeat center/cover;
+    background: url("../images/bannerticket.jpg") no-repeat center/cover;
     display: flex;
-    height: 450px;
+    height: 250px;
 }
 /* bottom banner for above footer */
 /* footer */
@@ -308,12 +308,24 @@ main {
     #packages > div {
         text-align: left;
         align-self: flex-end;
-    }  
+    }
+
 }
 
 /* large devices of 992 and above */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #f2c40f;
+    }
+}
+
+/* small devices for banner changes 480px to 320 px (mobile required hero & banner image re size)*/
+@media screen and (max-width: 430px) {
+    #seo-image {
+        height: 200px;
+    }
+
+    #banner {
+        height: 100px;
     }
 }
