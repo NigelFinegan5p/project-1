@@ -351,7 +351,7 @@ The logic behind this decision is that I wanted all of the information provided 
 <br>
 
 
-***Future Features***
+## **Future Features**
 
 <br>
 
@@ -461,7 +461,7 @@ My approach to troubleshoot this dilemma was to delete the GitHub respository, d
 
 <br> 
 
-![workspace error](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/error.jpg)
+![workspace error](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/error.jpg)
 
 <br>
 World Wide Web Consortium Validation 
@@ -477,7 +477,7 @@ A number of other errors were made in HTML for the code written for the map. Thi
 ## Website displayed on multiple devices
 <br>
 
-![devices](https://github.com/NigelFinegan5p/project-1/blob/main/screenshots/alldevices.jpg)
+![devices](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/alldevices.jpg)
 
 <br>
 
