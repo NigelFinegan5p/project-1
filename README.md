@@ -231,7 +231,7 @@ These packages supply the user with consolidated information so as to encourage 
 
 Above the footer and at the bottom of the main content is a custom banner designed on canva. The text overlay on the black and yellow image is "Your ticket to SEO results" .
 
-The background image of a event ticket being a symbolic representation to an SEO event. The text "admit one" is on the right hand side of the ticket. 
+The background image of an event ticket being a symbolic representation to an SEO event. The text "admit one" is on the right hand side of the ticket. 
 <br>
 <br>
 ![banner-ticket](https://github.com/NigelFinegan5p/project-1/blob/main/docs/screenshots/bannerticket.jpg)   
@@ -373,14 +373,17 @@ On the SEO services page & about us page we would like to create custom banners 
 
 ***Manual Testing***
 
- 1. All links on Navigation lead to their correct HTML pages without error. PASS
- 2. Footer social media links all lead to their respective social media sites. PASS
- 3. Newsletter form submits when all criteria is filled correctly. PASS
- 4. User prevented from submitting newletter form without correct elements. PASS
- 5. Form Validation presents new thank you page. PASS
- 6. MAP Icon opens to location of office. PASS
- 7. Podcast plays on thank you page after sign up. PASS
- 8. Audio starts stops and pauses by user action not autoplay. PASS
+Manual Testing ( Input-process-output )
+
+|  Input              |Process                          |Output                        |
+|----------------|-------------------------------|-----------------------------|
+|Navigation Bar|All links on Navigation bar lead to their correct HTML pages without error            |PASS            |
+|Media Icons          |Footer-social media links all lead to their respective social media sites            |PASS            |
+|Newsletter          |Newsletter form submits when all criteria is filled correctly|PASS|
+|Thank you page|Form Validation presents new thank you page            |PASS            |
+|Map Icon         |MAP Icon opens to location of office            |PASS            |
+|PODCAST          |Podcast displays on thank you page after sign up|PASS|
+|AUDIO          |Audio starts stops and pauses by user action not autoplay            |PASS            |
 
  <br>
 
