@@ -73,7 +73,7 @@ The contact page features a form where the users can sign up to our Yellow SEO n
 
 As one of the main project objectives is to showcase the core service of Yellow SEO we went with a Visual first approach.
 
-During extensive competitor research of other digital agencies, we notcied an in-depth analytics and keyword research focus with a potential of overloading potential new customers. For this reason we took a visual first approach to the project scope, focusing on a number of primary white and yellow SEO images.
+During extensive competitor research of other digital agencies, we notcied an in-depth analytics and keyword research focus. Instead we aimed to avoid potential information overload for customers. For this reason we took a visual first approach to the project scope, focusing on a number of primary white and yellow SEO images.
 
 We took a Macro approach to a Micro challenge & problem.
 
@@ -117,7 +117,7 @@ She can be found at the weekend relaxing with her family while the other instruc
 
 She considers herself a Digital Native, likes swimming and shopping.
 
-Her media media Habits – Tik Tok, Facebook, LinkedIn, and business Email.
+Her media Habits – Tik Tok, Facebook, LinkedIn, and business Email.
 
 She would like to grow the online bookings of her business using an online payment provider and is seeking to acquire more knowledge in the SEO & digital marketing field.
 
@@ -373,7 +373,7 @@ On the SEO services page & about us page we would like to create custom banners 
 
 ***Manual Testing***
 
- 1. All links on Navigation lead to their correct HTML pages with out error. PASS
+ 1. All links on Navigation lead to their correct HTML pages without error. PASS
  2. Footer social media links all lead to their respective social media sites. PASS
  3. Newsletter form submits when all criteria is filled correctly. PASS
  4. User prevented from submitting newletter form without correct elements. PASS
@@ -456,8 +456,8 @@ To deploy my Yellow SEO project the following steps were taken:
 <a name="bugs"></a>
 
 At the out set while setting up GitHub and the IDE workspace a number of challenges presented themselves.
-Unable to `Git Push` content from the workspace through to Git Hub as an error message appeared requiring authorization.
-My approach to troubleshoot this dilemma was to delete the GitHub respository, delete the workspace and reset the chrome extension in step 1, 2, 3, step process. This resolved the push error by creating a new workspace file and respository file.
+Unable to `Git Push` content from the workspace through to Git Hub, an error message appeared requiring authorization.
+My approach to troubleshoot this dilemma was to delete the GitHub respository, delete the workspace and reset the chrome extension in a step by step approach. A one, two, three step process was followed. This resolved the push error by creating a new workspace file and respository file.
 
 <br> 
 
