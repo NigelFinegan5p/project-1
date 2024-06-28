@@ -143,7 +143,7 @@ With the navigation links in the header users are easily able to navigate to the
 
 The landing page shows the primary SEO design logo in yellow and in white and is combined with text detailing the Core Packages available from Yellow SEO
 
-The SEO Services page includes our six step approach to SERP’s (Search Engine Page Results). Additionally a custom banner is located above the footer with a tagline “Let us open doors for you. Try Yellow SEO”. The background picture on the banner shows a closed white door.
+The SEO Services page includes our six step approach to SERP’s (Search Engine Page Results). Additionally a custom banner is located above the footer with the tagline "your ticket to SEO results". The background image is a graphic design of an event ticket with the text "admit one".
 
 The about us page features a form where the users can sign up to a monthly newsletter. After signing up the user moves to a thank you page with an embedded link to the GOOGLE (SOTR) Search Off The Record podcast.
 
