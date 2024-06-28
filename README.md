@@ -393,19 +393,19 @@ Manual Testing ( Input-process-output )
 Lighthouse Testing index.HTML
 <br>
 
- ![index.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/lighthouse-testing-index.html.jpg)
+ ![index.html](https://github.com/NigelFinegan5p/project-1/blob/main/docs/validation/lighthouse-testing-index.html.jpg)
 
  <br>
  Lighthouse Testing services.html
  <br>
 
- ![services.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/lighthouse-testing-services-html.jpg)
+ ![services.html](https://github.com/NigelFinegan5p/project-1/blob/main/docs/validation/lighthouse-testing-services-html.jpg)
 
  <br>
  Lighthouse Testing about.html
  <br>
 
- ![about.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/lighthouse-testing-about.html.jpg)
+ ![about.html](https://github.com/NigelFinegan5p/project-1/blob/main/docs/validation/lighthouse-testing-about.html.jpg)
 
  <br>
  <br>
@@ -417,25 +417,25 @@ Lighthouse Testing index.HTML
  World Wide Web Consortium Validation index.html
  <br>
 
- ![index.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-index.html.jpg)
+ ![index.html](https://github.com/NigelFinegan5p/project-1/blob/main/docs/validation/W3C-validation-index.html.jpg)
 
  <br>
 World Wide Web Consortium Validation services.html
  <br>
 
- ![services.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-seoservices.html.png)
+ ![services.html](https://github.com/NigelFinegan5p/project-1/blob/main/docs/validation/W3C-validation-seoservices.html.png)
 
  <br>
 World Wide Web Consortium Validation about.html
 <br>
 
-![about.html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-aboutus.html.jpg)
+![about.html](https://github.com/NigelFinegan5p/project-1/blob/main/docs/validation/W3C-validation-aboutus.html.jpg)
 
 <br>
 World Wide Web Consortium Validation style.css
 <br>
 
-![style.css](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-style.css.jpg)
+![style.css](https://github.com/NigelFinegan5p/project-1/blob/main/docs/validation/W3C-validation-style.css.jpg)
 
 <br>
 
@@ -473,7 +473,7 @@ A number of other errors were made in HTML for the code written for the map. Thi
 
 <br>
 
-![error-html](https://github.com/NigelFinegan5p/project-1/blob/main/assets/validation/W3C-validation-aboutus.html-error.jpg)
+![error-html](https://github.com/NigelFinegan5p/project-1/blob/main/docs/validation/W3C-validation-aboutus.html-error.jpg)
 
 <br>
 
